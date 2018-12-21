@@ -4,14 +4,12 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Norwary by Naydelin Perez
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+The flag that i created was the norway flag because norway seems really intersting and i really wanted to learn about the county's flag. 
+The grade that i expect to is a 3 or a 4 because most of the code that i used was from what mr.allata thought us and i also tried really hard to get every inch right so it wouldn't look wrong.
 
 ## Current output
 
@@ -24,6 +22,7 @@ date: 2018-12-21
 ## Describe your process.
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+
 
 <!--- Delete this comment and add your writing -->
 
